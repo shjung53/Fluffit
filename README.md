@@ -111,11 +111,13 @@
 
 ## architecture
 
-![architenture](./assets/architecture.png)
+![architecture](https://github.com/shjung53/Fluffit/assets/90888718/0eb6bd91-404c-4caa-87fb-9798c2d82888)
+
 
 ## ERD
 
-![ERD](./assets/ERD.jpg)
+![ERD](https://github.com/shjung53/Fluffit/assets/90888718/1ff537a1-b4b3-4d86-aedf-38b46df2b447)
+
 
 # 주요 서비스 화면
 
@@ -123,44 +125,54 @@
 
 - **메인 화면**
 
-![mobileMain](./assets/Fluffit.png)
+![Fluffit](https://github.com/shjung53/Fluffit/assets/90888718/a825644d-369f-482e-973e-ea57a8240a85)
+
 
 - **랭킹 화면**
 
-![mobileRanking](./assets/FluffitRanking.png)
+![FluffitRanking](https://github.com/shjung53/Fluffit/assets/90888718/e2c49cd3-d63d-4106-921d-fab30ca1a2ce)
+
 
 - **도감 화면**
 
-![mobileCollection](./assets/FluffitCollection.png)
+![FluffitCollection](https://github.com/shjung53/Fluffit/assets/90888718/ce75be0e-9ef8-4881-b94d-1f568935da9d)
+
 
 - **플러펫 진화 화면**
 
-![mobileEvolve](./assets/FluffitEvolve.png)
+![FluffitEvolve](https://github.com/shjung53/Fluffit/assets/90888718/d7e29daa-c612-4635-80a2-d932f784c111)
+
 
 - **플러펫 히스토리 화면**
 
-![mobileHistory](./assets/FluffitHistory.png)
+![FluffitHistory](https://github.com/shjung53/Fluffit/assets/90888718/01e5979d-3a25-4991-8805-89f2e343f72b)
 
 - **플러펫 배틀 전적 화면**
 
-![mobileBattleRecord](./assets/FluffitBattleRecord.png)
+![FluffitBattleRecord](https://github.com/shjung53/Fluffit/assets/90888718/658f9005-3ec6-4412-878a-65ab9986a4a3)
+
 
 ### 워치 화면
 
 - **메인 화면**
 
-![watchMain](./assets/기본.gif)
+![기본](https://github.com/shjung53/Fluffit/assets/90888718/e20f1515-86ce-4aef-9f30-15a67b5650e2)
+
 
 - **먹이 화면**
 
-![watchFeed](./assets/밥주기.png)
+![밥주기](https://github.com/shjung53/Fluffit/assets/90888718/35a9156d-a47d-4db2-a872-6fe90ff7b6f6)
+
 
 - **운동 화면**
 
-![watchMain](./assets/운동하기.gif)
+![운동하기](https://github.com/shjung53/Fluffit/assets/90888718/ea24c8e3-3f32-4b71-87db-e06c4147e69d)
+
 
 - **게임 화면**
 
-![watchMain](./assets/돌깨기.gif)
+![돌깨기](https://github.com/shjung53/Fluffit/assets/90888718/69d023df-39c6-41c4-afbf-f4b88eddffd7)
 
-![watchMain](./assets/심박수.gif)
+![심박수](https://github.com/shjung53/Fluffit/assets/90888718/d4599fc2-f9ed-489c-8e29-2c45adbe0454)
+
+
